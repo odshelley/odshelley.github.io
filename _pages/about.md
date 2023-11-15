@@ -12,19 +12,67 @@ redirect_from:
 I have a PhD in mathematics and statistics from the University of Warwick, supervised by [Martin Herdegen](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/herdegen/) and [Gechun Liang](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/liang/). My research lies in the fields of mathematical finance and stochastic control. Specifically, my work aims to understand better the effects of transaction taxes in general equilibrium models when agents have heterogeneous beliefs about the market. Through such study, my research has expanded to include theoretical work related to ergodic stochastic control and investigations into the vague convergence of signed measures. I also actively participate in projects utilising machine learning techniques, as can be seen via my [GitHub account](https://github.com/odshelley).
 
 Papers
-------
+======
 
 Papers are under review.
 
-- Transaction taxes in a general equilibrium model
-- On vague and weak convergence for signed measures [[arxiv]](https://arxiv.org/abs/2205.13207)
-- A Continuity Theorem for signed measures [[arxiv]](https://arxiv.org/abs/2205.13075)
+* Transaction taxes in a general equilibrium model
+* On vague and weak convergence for signed measures [[arxiv]](https://arxiv.org/abs/2205.13207)
+* A Continuity Theorem for signed measures [[arxiv]](https://arxiv.org/abs/2205.13075)
+
+Coding Projects
+======
+
+The following are some group coding projects or reading groups I have organised or contributed to.
+
+* **Alan Turing Institute Data Study Group (Facilitator):** 
+
+  Project: *Improving the resolution of protein structure imaging* for the Rosalind Franklin Institute; 2021.
+
+* **[SF@W (Contributor):](https://warwick.ac.uk/fac/sci/statistics/research/stochastic-finance-at-warwick/sfrg/)** 
+
+  Projects:  Projects: Reinforcement Learning for Finance, BSDEs, Convex Optimization; 2020-2023.
+
+* **University of Warwick Data Study Group (Organizer):** 
+
+  Projects: Projects: Python for Finance, Machine learning for Finance, Bayesian Methods for Hackers; 2018-2022.
+
+I have also developed personal projects for exploring statistical inference and numerical analysis technique.
+
+* **[QRT Data Challenge](https://github.com/odshelley)** 
+
+  Modeled electricity prices integrating weather, energy, and commercial data.
+
+* **[Kaggle ML from Disaster Project](https://github.com/odshelley)** 
+
+  Applied statistical inference techniques to predict Titanic survival outcomes; 83% accuracy.
+
+* **[Numerical BSDE Solver](https://github.com/odshelley)** 
+
+  Implemented algorithms to solve BSDEs; applied to option pricing.
+
+
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Attended Workshops
+======
+
+* 2021: Summer School on Distributed Control: Decentralization and Incentives (CIRM)
+* 2021: Ergodicity Economics (Online/London Mathematical Laboratory)
+* 2020: European Summer School in Financial Mathematics (University of Vienna)
+* 2020: Fractional Calculus and Fractional Stochastic Calculus (LMS/Brunel University London)
+* 2019: Market Micro-structure, The CFM-Imperial Workshop (HSBC London)
 
 Misc.
-------
-- I'm was the secretary of the MASDOC Staff Student Liaison Committee (2019-2023)
-- I was a student rep. for the Mathematics department's Athena Swan Committee (2020-2021).
-- I'm was the chair of the Staff-Graduate Student Liaison Committee (2020-2021).
+======
+* I'm was the secretary of the MASDOC Staff Student Liaison Committee (2019-2023)
+* I was a student rep. for the Mathematics department's Athena Swan Committee (2020-2021).
+* I'm was the chair of the Staff-Graduate Student Liaison Committee (2020-2021).
 
 
 <!-- 
