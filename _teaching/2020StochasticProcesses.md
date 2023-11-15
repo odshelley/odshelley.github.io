@@ -1,5 +1,5 @@
 ---
-title: "Stochastic Processes: Teaching Assistant"
+title: "(2020) Stochastic Processes: Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014StochasticProcesses

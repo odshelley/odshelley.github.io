@@ -1,5 +1,5 @@
 ---
-title: "Functional Analysis 2: Teaching Assistant"
+title: "(2021) Functional Analysis 2: Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021FunctionalAnalysis2

@@ -8,7 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-My PhD was under the supervision of Martin HerdegenLink opens in a new window and Gechun LiangLink opens in a new window. My research lies in the fields of mathematical finance and stochastic control. Specifically, my work aims to better understand the effects of transaction taxes in general equilibrium models when agents have hetergenous beliefs about the market. Through such study, my research has expanded to include theoretical work related to ergodic stochastic control, along with investigations into the vague convergence of signed measures. I also have a keen interest in the application of machine learning techniques.
+
+I have a PhD in mathematics and statistics from the University of Warwick, supervised by [Martin Herdegen](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/herdegen/) and [Gechun Liang](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/liang/). My research lies in the fields of mathematical finance and stochastic control. Specifically, my work aims to understand better the effects of transaction taxes in general equilibrium models when agents have heterogeneous beliefs about the market. Through such study, my research has expanded to include theoretical work related to ergodic stochastic control and investigations into the vague convergence of signed measures. I also actively participate in projects utilising machine learning techniques, as can be seen via my [GitHub account](https://github.com/odshelley).
+
+Papers
+------
+
+Papers are under review.
+
+- Transaction taxes in a general equilibrium model
+- On vague and weak convergence for signed measures [[arxiv]](https://arxiv.org/abs/2205.13207)
+- A Continuity Theorem for signed measures [[arxiv]](https://arxiv.org/abs/2205.13075)
+
+Misc.
+------
+- I'm was the secretary of the MASDOC Staff Student Liaison Committee (2019-2023)
+- I was a student rep. for the Mathematics department's Athena Swan Committee (2020-2021).
+- I'm was the chair of the Staff-Graduate Student Liaison Committee (2020-2021).
+
 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

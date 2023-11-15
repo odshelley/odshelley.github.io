@@ -1,10 +1,10 @@
 ---
-title: "Fundamental Tools: Lecturer"
+title: "(2023) Fundamental Tools: Lecturer"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2023FundamentalTools
 venue: "University of Warwick, Warwick Business School"
-date: 2023-09-25
+date: 2023-10-01
 location: "Coventry, UK"
 ---
 

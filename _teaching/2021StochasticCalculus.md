@@ -1,5 +1,5 @@
 ---
-title: "Stochastic Calculus for Finance: Teaching Assistant"
+title: "(2021) Stochastic Calculus for Finance: Teaching Assistant"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2015StochasticCalculus

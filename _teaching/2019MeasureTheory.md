@@ -1,5 +1,5 @@
 ---
-title: "Measure Theory: Teaching Assistnant"
+title: "(2019) Measure Theory: Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021MeasureTheory
